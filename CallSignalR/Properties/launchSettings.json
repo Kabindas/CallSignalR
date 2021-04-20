@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CallSignalR": {
+      "commandName": "Project",
+      "commandLineArgs": "Vitor 99"
+    }
+  }
+}
